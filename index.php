@@ -7,4 +7,5 @@
  */
 
 
-echo "Woah!! No way";
+echo "Woah!!";
+echo "Cool";
