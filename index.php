@@ -8,3 +8,4 @@
 
 
 echo "Woah!!";
+echo "Cool";
